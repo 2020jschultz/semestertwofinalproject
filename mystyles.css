@@ -1,9 +1,10 @@
 .header{
     background-color: lightblue;
-    width: 1350px;
+    width: 100%;
     height: 75px;
     text-align: center;
     font-size: 48px;
+    margin-right: 200px;
 }
 
 .pieces{
@@ -14,9 +15,24 @@
     color: blue;
     text-decoration: underline;
     text-align: center;
-    padding: 8pt;
+    padding-top: 10%;
+    padding-bottom: 10%;
 }
 
-.img{
-    
+.section{
+    height: 950px;
+    width: 30%;
+    background-color: coral;
+    float: left;
+    padding: 1.661%;
+}
+
+#evenbox{
+    background-color: lightgreen;
+
+}
+
+.images{
+    height: 322.94667px;
+    width: 189.23px;
 }
