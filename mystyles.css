@@ -39,7 +39,6 @@
 
 .row{
     background-color: black;
-    width: 100%;
 }
 
 .row:after{
@@ -49,11 +48,30 @@
 }
 
 .div2{
-    width: 900px;
-    height: 300px;
+    width: 300px;
+    height: 900px;
+    float: left;
 }
 
 .images2{
     width: 300px;
     height: 300px;
+}
+
+#floatright{
+    width: 100%;
+    padding-top: 100px;
+    text-align: center;
+}
+
+#floatright2{
+    padding-top: 350px;
+    width: 100%;
+    text-align: center;
+}
+
+#floatright3{
+    padding-top: 300px;
+    width: 100%;
+    text-align: center;
 }
